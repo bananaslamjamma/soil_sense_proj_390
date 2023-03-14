@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class Plants {
-
+    //test comment
     public String name;
     public String nick_name;
     public int flag;
